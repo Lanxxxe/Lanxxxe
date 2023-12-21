@@ -4,10 +4,10 @@
 Here are some ideas to get you started:
 -->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I+am+Charles;I'm+a+Front+End+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=70&center=true&vCenter=true&lines=Hello+I+am+Charles;I'm+a+Front+End+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 
-<h2>A passionate Junior Front End Developer from Philippines </h2>
+<h3>A passionate Junior Front End Developer from Philippines </h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
