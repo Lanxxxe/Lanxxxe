@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Charles;I'm+a+Front+End+Enthusiast)](https://git.io/typing-svg)
 <!--
 **Lanxxxe/Lanxxxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
