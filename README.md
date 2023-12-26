@@ -1,12 +1,21 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&random=false&size=32&width=500&height=70&center=true&vCenter=true&lines=Hello+I+am+Charles;I'm+a+Front+End+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&random=false&size=32&width=500&height=70&center=true&vCenter=true&lines=Hello+I+am+Charles👋;I'm+a+Junior+Front+End+Developer💻" alt="Typing SVG" /></a>
 </h1>
 
 <h3>A passionate Front End Developer from The Philippines 🚀</h3>
 
-- An **Information Technology Student**
-- I’m currently persuing my **Bachelor's Degree at Eastern Visayas State University**
-- I’m looking to collaborate on **Small to Intermiediate Projects**
+👋 Hello there! I'm Charles, a passionate student and freelancer with a love for front-end development. Currently pursuing Bachelor's of Science in Information Technology, I thrive on bringing creative and user-centric designs to life.
+
+💼 As a freelancer, I enjoy collaborating on diverse projects that allow me to expand my skills and contribute to real-world solutions. My commitment to delivering high-quality, responsive web applications reflects my dedication to exceeding client expectations.
+
+🚀 My primary focus is on front-end development, where I specialize in creating intuitive and visually appealing user interfaces. Proficient in HTML5, CSS3, Javascript, Reactjs, Bootstrap, Python, and C Language, I'm always eager to explore the latest trends and technologies in the ever-evolving world of web development.
+
+🌐 Excited about the intersection of design and technology, I'm on a mission to create seamless digital experiences. Feel free to explore my repositories, and let's connect! Open to collaboration and new opportunities.
+
+📚 Currently honing my skills as a student, I am enthusiastic about the journey of continuous learning and growth. Looking forward to contributing to the open-source community and making a positive impact in the tech world.
+
+📫 Let's connect! Whether you're interested in collaboration, have questions about my projects, or just want to chat about front-end development, I'm always open to connecting with like-minded individuals.
+
 
 ### My Socials 💬
 <div align="left">
