@@ -51,5 +51,5 @@
 </div>
 
 ### My Statistics
-[![Lanxxxe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanxxxe&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanxxxe&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Lanxxxe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanxxxe&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanxxxe&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
