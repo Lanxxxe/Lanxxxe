@@ -39,10 +39,10 @@
 <div align="left">
   <img src="https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&labelColor=orange&logoColor=white"/> 
   <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&labelColor=blue&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&labelColor=gray"/>
+  <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&labelColor=black"/>
   <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js"/>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=blue&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C/C++-black?style=for-the-badge&logo=c&labelColor=gray&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C/C++-black?style=for-the-badge&logo=c&labelColor=black&logoColor=white"/>  
   <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&labelColor=purple&logoColor=white"/> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
   <img src="https://img.shields.io/badge/vs code-0078d7?style=for-the-badge&logo=visual-studio-code&labelColor=0078d7"/>
