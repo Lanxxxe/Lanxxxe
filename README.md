@@ -49,3 +49,7 @@
   <img src="https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma&labelColor=pink"/>
   <img src="https://img.shields.io/badge/git-f77320?style=for-the-badge&logo=git&labelColor=f77320&logoColor=white"/>
 </div>
+
+### My Statistics
+[![Lanxxxe's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanxxxe&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanxxxe&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
