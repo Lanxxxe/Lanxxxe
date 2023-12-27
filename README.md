@@ -51,5 +51,7 @@
 </div>
 
 ### My Github Stats 📈
-[![Lanxxxe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanxxxe&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanxxxe&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Lanxxxe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanxxxe&show_icons=true&theme=tokyonight) ![](https://github-readme-streak-stats.herokuapp.com/?user=Lanxxxe&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanxxxe&layout=donut)
+
 
