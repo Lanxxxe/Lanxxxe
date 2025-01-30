@@ -17,7 +17,7 @@ Hi there! I'm Charles
   <a href="https://discordapp.com/users/Lanxxxe#0989">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" />
   </a>
-  <a href="[https://discordapp.com/users/Lanxxxe#0989](https://charles-lance.vercel.app/)">
+  <a href="https://charles-lance.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-darkblue?style=for-the-badge&logo=Portfolio&logoColor=white" />
   </a>
   
