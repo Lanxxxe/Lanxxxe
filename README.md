@@ -38,6 +38,7 @@ Hi there! I'm Charles
   <img src="https://img.shields.io/badge/vs code-0078d7?style=for-the-badge&logo=visual-studio-code&labelColor=0078d7"/>
   <img src="https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma&labelColor=pink"/>
   <img src="https://img.shields.io/badge/git-f77320?style=for-the-badge&logo=git&labelColor=f77320&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54"/>
 </div>
 
 ### My Github Stats 📈
